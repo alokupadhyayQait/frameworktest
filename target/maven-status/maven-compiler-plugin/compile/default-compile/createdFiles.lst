@@ -1,0 +1,8 @@
+com\qa\practiceproj\base\LocatorMap.class
+com\qa\practiceproj\pages\loginPage.class
+Analyzer\MyAnnotationTransformer.class
+Analyzer\RetryAnalyzer.class
+com\qa\practiceproj\base\LocatorsCall.class
+com\qa\practiceproj\base\Testbase.class
+com\qa\practiceproj\pages\GmailTestActions.class
+com\qa\practiceproj\util\TestUtil.class
